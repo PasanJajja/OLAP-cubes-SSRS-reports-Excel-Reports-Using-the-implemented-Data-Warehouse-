@@ -1,0 +1,8 @@
+In this report we can drill down through ProductCategory to ProductContainer
+and from ProductContainer to ProductSubCategory and finally from
+ProductSubCategory to the Product.
+
+Like wise from Product again we can Roll up till ProductCategory.
+
+So this will report will give us the Product wise details of total shipping costs
+of each customer relevant to the each Region,State/Province and the City.

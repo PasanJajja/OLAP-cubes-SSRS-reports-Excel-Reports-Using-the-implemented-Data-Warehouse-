@@ -1,0 +1,10 @@
+In this excel sheet it shows the total sales amount and the total profit using the kpi value
+of the customers.
+In the coloumns I have included a hierarchy (Region-->State/Province-->City-->Customers)
+which is a un-natural hierarchy in this case 
+so I can view the report details region wise state wise city wise customer details.
+
+for my row also... From year we can drill down to months so we can view the monthly
+sales amount and the profit details..
+Again we can Roll up from months to years so we can view the yearly sales amount and the 
+profit.

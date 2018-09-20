@@ -1,0 +1,1 @@
+This report displays the total sales amount for three regions slice by Product Categories
